@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola soy Andres Yupanqui! 
 
-<!--
-**Andr3573/Andr3573** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de *Tecnología Superior en Desarrollo de Software* en el Instituto Superior Universitario Sucre. Me apasiona la tecnología, el hardware de PCs y la optimización de procesos mediante el código.
 
-Here are some ideas to get you started:
+## Sobre mí:
+- 💻 Actualmente cursando el primer semestre y aprendiendo **Fundamentos de Programación**.
+- 🛠️ Interesado en arquitectura de computadoras, armado de PCs Gamers y electrónica básica.
+- 🏋️‍♂️ En mis tiempos libres me encuentras entrenando en el gimnasio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías y Herramientas:
+- **Próximamente:** Algoritmos, Diagramas de Flujo y Pseudocódigo.
+- **Entorno:** Git y GitHub.
+
+## 📈 Metas para este semestre:
+- Dominar la lógica de programación y las estructuras de datos básicas.
+- Diseñar bases de datos relacionales eficientes.
