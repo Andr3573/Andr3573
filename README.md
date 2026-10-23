@@ -11,6 +11,6 @@ Estudiante de *Tecnología Superior en Desarrollo de Software* en el Instituto S
 - **Próximamente:** Algoritmos, Diagramas de Flujo y Pseudocódigo.
 - **Entorno:** Git y GitHub.
 
-## 📈 Metas para este semestre:
+## Metas para este semestre:
 - Dominar la lógica de programación y las estructuras de datos básicas.
 - Diseñar bases de datos relacionales eficientes.
